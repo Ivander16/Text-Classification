@@ -1,2 +1,2 @@
 # Text-Classification
-ini merupakan sebuah program untuk mengklasifikasikan teks dengan metode KNN(K-Nearest Neighbors) menggunakan bahasa pemrograman Python
+ini merupakan sebuah program untuk mengklasifikasi teks dengan berbagai jenis metode  menggunakan bahasa pemrograman Python
